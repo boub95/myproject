@@ -1,6 +1,8 @@
 h1{
     color: brown;
     text-align: center;
+    font-size: larger;
+    font-weight: bold;
 }
 body{
     background-color: blueviolet;
